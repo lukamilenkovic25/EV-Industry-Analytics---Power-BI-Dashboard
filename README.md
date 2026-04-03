@@ -1,69 +1,74 @@
-Overview
-This Power BI dashboard delivers a comprehensive analytics solution for the Electric Vehicle (EV) industry, covering global sales performance, gigafactory production efficiency, battery raw material cost exposure, and worldwide charging infrastructure readiness.
-The report is built following BI best practices with a clean star schema, optimized DAX measures, reusable dimension tables, and modern field parameter interactivity for dynamic KPI and Axis switching.
+Power BI Data Analyst Portfolio
+This repository contains a structured collection of Power BI projects demonstrating my ability to design complete end‑to‑end business intelligence solutions.
+The portfolio covers sales analytics, financial performance monitoring, and customer churn analysis, with a focus on data modeling, DAX development, and insight‑driven dashboard design.
 
-Business Questions
-This project answers the following core questions:
+**About Me**
+Hi, I’m Luka Milenković, an Advanced Purchaser specializing in analytical problem‑solving, cost modeling, data visualization, and process optimization.
+This portfolio demonstrates my ability to design end‑to‑end BI solutions using Power BI, DAX, star schema modeling, and cross-functional business logic.
 
-Which EV producers lead the global market?
-How are EV sales evolving across different regions and countries?
-How efficient are gigafactories (scrap rate, utilization, output)?
-How do raw materials and suppliers impact battery costs?
-How developed is the global EV charging infrastructure?
-What are the YoY and Rolling 12‑month trends across key KPIs?
-How does performance change across Producers, Regions, Countries, and Models?
+**What This Portfolio Demonstrates**
+- Strong understanding of complex data modeling
+- Ability to design high-business-value dashboards
+- Proficiency in DAX (YoY, R12, weighted metrics, cost modeling)
+- Dynamic KPI and Axis switching via field parameters
+- Geospatial analytics (global charging network)
+- Drillthrough reporting and interactive navigation
+- Clean, enterprise-grade page layouts
 
-Key Insights
-Top EV producers dominate >60% of global market share.
-Gigafactory scrap rate significantly affects cost per MWh.
-Asia-Pacific leads in fast‑charging infrastructure development.
-Raw material cost exposure is concentrated in four major materials.
-Rising R12 units show year‑over‑year acceleration in EV adoption.
-Charging networks remain uneven across regions, impacting market expansion.
+**Featured Projects**
+This featured project provides a complete analytical view of the EV industry, including:
+- EV market performance
+- Gigafactory efficiency
+- Battery raw material spend
+- Charging network maturity
+- Model-level and producer-level insights
+- Procurement and cost exposure
+- KPI trends and dynamic exploration
 
-Data and Modeling
-The dataset consists of four fact tables and several supporting dimension tables. Data is cleaned and transformed using Power Query, with column normalization for:
-Percentage fields
-Material cost per ton
-Date hierarchies
-Gigafactory performance metrics
+**Project Structure**
+Executive Pages
+- EV Overview Dashboard
+- EV Executive Summary
 
-Relationships follow a Star Schema for high-performance analytics.
+Analytical Pages
+- Charging Infrastructure
+- Producer Details (Drillthrough)
+- Factory Performance
+- Raw Material Exposure
 
-Data Model
+Tools & Techniques
+- DAX: YoY, R12, weighted KPIs, cost modeling
+- Power Query: cleaning, typing, normalization
+- Field Parameters for dynamic analytics
+- Star Schema data modeling
+- Custom tooltip pages
+- Smooth visualization design
 
-Fact Tables:
-EV_Sales
-Gigafactory_Production
-Battery_Raw_Materials
-Charging_Infrastructure
+**Data Models**
+Built as a star schema:
+- Four fact tables (Sales, Production, Charging, Raw Materials)
+- Seven dimension tables
+- Two parameter tables
+Ensures excellent performance and clean analytical context.
 
-Dimension Tables:
-DimProducer
-DimCountry
-DimRegion
-DimModel
-DimFactory
-DimSupplier
-DateTable
+**Tools and Skills**
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Modeling
+- KPI Design
+- Cost Analytics
+- Procurement Intelligence
+- UX/UI in BI
+- Visualization Storytelling
 
-Field Parameter Tables:
-KPI Selector
-Axis Selector
+**Purpose of This Portfolio**
+This portfolio is designed to demonstrate practical Power BI skills aligned with real business scenarios, making it relevant for roles such as:
+- Junior Data Analyst
+- Power BI Analyst
+- Business Intelligence Analyst
+The focus is on analytical depth, clean data modeling, intuitive reporting, and clear communication of business insights.
 
-DAX Highlights
-
-Tools Used
-Power BI Desktop (2025+ dynamic parameters)
-Power Query
-DAX (Data Analysis Expressions)
-Star Schema modeling
-Custom Tooltips
-Field Parameters
-Drillthrough navigation
-
-Files Included
-EV_Industry_Analytics.pbix — full Power BI report
-/screenshots — images of each report page
-README.md — project documentation
-(optional) Model_DAX.txt — exported DAX measures
+Contact
+LinkedIn: https://www.linkedin.com/in/luka-milenkovic-74768a285/
+Email: m.milenkovicluka@gmail.com GitHub: https://github.com/lukamilenkovic25
