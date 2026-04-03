@@ -1,4 +1,4 @@
-Power BI Data Analyst Portfolio
+**Power BI Data Analyst Portfolio**
 This repository contains a structured collection of Power BI projects demonstrating my ability to design complete end‑to‑end business intelligence solutions.
 The portfolio covers sales analytics, financial performance monitoring, and customer churn analysis, with a focus on data modeling, DAX development, and insight‑driven dashboard design.
 
