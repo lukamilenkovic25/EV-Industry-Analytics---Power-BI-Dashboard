@@ -1,12 +1,16 @@
-**Power BI Data Analyst Portfolio**
-- This repository contains a structured collection of Power BI projects demonstrating my ability to design complete end‑to‑end business intelligence solutions.
+# Power BI Data Analyst Portfolio
+This repository contains a structured collection of Power BI projects demonstrating my ability to design complete end‑to‑end business intelligence solutions.
 The portfolio covers sales analytics, financial performance monitoring, and customer churn analysis, with a focus on data modeling, DAX development, and insight‑driven dashboard design.
 
-**About Me**
-- Hi, I’m Luka Milenković, specializing in analytical problem‑solving, cost modeling, data visualization, and process optimization.
-This portfolio demonstrates my ability to design end‑to‑end BI solutions using Power BI, DAX, star schema modeling, and cross-functional business logic.
+---
 
-**What This Portfolio Demonstrates**
+## About Me
+I am a Junior Data Analyst with a strong focus on Power BI, DAX, and business-oriented analytics.  
+My work emphasizes clean data preparation, optimized data modeling, KPI development, and transforming raw data into actionable insights that support decision-making.
+
+---
+
+## What This Portfolio Demonstrates
 - Strong understanding of complex data modeling
 - Ability to design high-business-value dashboards
 - Proficiency in DAX (YoY, R12, weighted metrics, cost modeling)
@@ -15,7 +19,10 @@ This portfolio demonstrates my ability to design end‑to‑end BI solutions usi
 - Drillthrough reporting and interactive navigation
 - Clean, enterprise-grade page layouts
 
-**Featured Projects** - This featured project provides a complete analytical view of the EV industry, including:
+---
+
+## Featured Projects
+This featured project provides a complete analytical view of the EV industry, including:
 - EV market performance
 - Gigafactory efficiency
 - Battery raw material spend
@@ -24,7 +31,9 @@ This portfolio demonstrates my ability to design end‑to‑end BI solutions usi
 - Procurement and cost exposure
 - KPI trends and dynamic exploration
 
-**Project Structure**
+---
+
+## Project Structure
 
 Executive Pages
 - EV Overview Dashboard
@@ -44,14 +53,17 @@ Tools & Techniques
 - Custom tooltip pages
 - Smooth visualization design
 
-**Data Models**
+---
+
+## Data Models
 Built as a star schema:
 - Four fact tables (Sales, Production, Charging, Raw Materials)
 - Seven dimension tables
 - Two parameter tables
-Ensures excellent performance and clean analytical context.
 
-**Tools and Skills**
+---
+
+## Tools and Skills
 - Power BI Desktop
 - Power Query
 - DAX
@@ -62,14 +74,20 @@ Ensures excellent performance and clean analytical context.
 - UX/UI in BI
 - Visualization Storytelling
 
-**Purpose of This Portfolio**
+---
+
+## Purpose of This Portfolio
 This portfolio is designed to demonstrate practical Power BI skills aligned with real business scenarios, making it relevant for roles such as:
 - Junior Data Analyst
 - Power BI Analyst
 - Business Intelligence Analyst
 The focus is on analytical depth, clean data modeling, intuitive reporting, and clear communication of business insights.
 
-**Contact**
+---
+
+## Contact
 - LinkedIn: https://www.linkedin.com/in/luka-milenkovic-74768a285
 - Email: m.milenkovicluka@gmail.com 
 - GitHub: https://github.com/lukamilenkovic25
+
+---
