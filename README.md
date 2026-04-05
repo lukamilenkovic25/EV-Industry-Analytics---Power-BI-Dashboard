@@ -74,4 +74,5 @@ The focus is on analytical depth, clean data modeling, intuitive reporting, and 
 LinkedIn: https://www.linkedin.com/in/luka-milenkovic-74768a285
 
 Email: m.milenkovicluka@gmail.com 
+
 GitHub: https://github.com/lukamilenkovic25
