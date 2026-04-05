@@ -3,7 +3,7 @@ This repository contains a structured collection of Power BI projects demonstrat
 The portfolio covers sales analytics, financial performance monitoring, and customer churn analysis, with a focus on data modeling, DAX development, and insight‑driven dashboard design.
 
 **About Me**
-Hi, I’m Luka Milenković, an Advanced Purchaser specializing in analytical problem‑solving, cost modeling, data visualization, and process optimization.
+Hi, I’m Luka Milenković, specializing in analytical problem‑solving, cost modeling, data visualization, and process optimization.
 This portfolio demonstrates my ability to design end‑to‑end BI solutions using Power BI, DAX, star schema modeling, and cross-functional business logic.
 
 **What This Portfolio Demonstrates**
