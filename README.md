@@ -1,9 +1,9 @@
 **Power BI Data Analyst Portfolio**
-This repository contains a structured collection of Power BI projects demonstrating my ability to design complete end‑to‑end business intelligence solutions.
+- This repository contains a structured collection of Power BI projects demonstrating my ability to design complete end‑to‑end business intelligence solutions.
 The portfolio covers sales analytics, financial performance monitoring, and customer churn analysis, with a focus on data modeling, DAX development, and insight‑driven dashboard design.
 
 **About Me**
-Hi, I’m Luka Milenković, specializing in analytical problem‑solving, cost modeling, data visualization, and process optimization.
+- Hi, I’m Luka Milenković, specializing in analytical problem‑solving, cost modeling, data visualization, and process optimization.
 This portfolio demonstrates my ability to design end‑to‑end BI solutions using Power BI, DAX, star schema modeling, and cross-functional business logic.
 
 **What This Portfolio Demonstrates**
