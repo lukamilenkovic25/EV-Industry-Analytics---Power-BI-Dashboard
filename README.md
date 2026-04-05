@@ -70,6 +70,6 @@ This portfolio is designed to demonstrate practical Power BI skills aligned with
 The focus is on analytical depth, clean data modeling, intuitive reporting, and clear communication of business insights.
 
 **Contact**
-LinkedIn: https://www.linkedin.com/in/luka-milenkovic-74768a285
-Email: m.milenkovicluka@gmail.com 
-GitHub: https://github.com/lukamilenkovic25
+  LinkedIn: https://www.linkedin.com/in/luka-milenkovic-74768a285
+  Email: m.milenkovicluka@gmail.com 
+  GitHub: https://github.com/lukamilenkovic25
