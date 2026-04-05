@@ -15,8 +15,7 @@ This portfolio demonstrates my ability to design end‑to‑end BI solutions usi
 - Drillthrough reporting and interactive navigation
 - Clean, enterprise-grade page layouts
 
-**Featured Projects**
-This featured project provides a complete analytical view of the EV industry, including:
+**Featured Projects** - This featured project provides a complete analytical view of the EV industry, including:
 - EV market performance
 - Gigafactory efficiency
 - Battery raw material spend
@@ -26,6 +25,7 @@ This featured project provides a complete analytical view of the EV industry, in
 - KPI trends and dynamic exploration
 
 **Project Structure**
+
 Executive Pages
 - EV Overview Dashboard
 - EV Executive Summary
