@@ -1,4 +1,4 @@
-# Power BI Data Analyst Portfolio
+# EV Industry Analytics - Market & Cost Insights (PowerBI)
 This repository contains a structured collection of Power BI projects demonstrating my ability to design complete end‑to‑end business intelligence solutions.
 The portfolio covers sales analytics, financial performance monitoring, and customer churn analysis, with a focus on data modeling, DAX development, and insight‑driven dashboard design.
 
